@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TinyFrame</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<variableList>
+		<variable>
+			<name>libraries</name>
+			<value>file:/home/andres/.arduino15/packages/arduino/hardware/avr/1.6.23/libraries</value>
+		</variable>
+	</variableList>
+</projectDescription>
